@@ -1,0 +1,204 @@
+2023-11-22 20:08:23 InitDriver [INFO] - Chrome browser instantiated
+2023-11-22 20:08:23 BaseTest [INFO] - Executing suite: Default Suite
+2023-11-22 20:08:23 BasePage [INFO] - pages.Navigation created
+2023-11-22 20:08:23 BaseTest [INFO] - Driver manager created
+2023-11-22 20:08:23 BasePage [INFO] - pages.LoginPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.LoginPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.MainPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.ClientPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.PremiumCardPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.CardsPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.CardDetailsPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.SocialCardPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.SalaryCardPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.StandardCardPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.TravelCardPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.BankAccountPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.InstantCardPage created
+2023-11-22 20:08:23 BasePage [INFO] - pages.DepositPage created
+2023-11-22 20:08:23 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-11-22 20:08:24 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-11-22 20:08:25 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-11-22 20:08:25 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-11-22 20:08:25 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-11-22 20:08:25 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-11-22 20:08:26 EventLog [INFO] - Should navigate to: https://test-web-green-front.apps.dev-env.bcc.kz/
+2023-11-22 20:08:58 EventLog [INFO] - Successful navigated to: https://test-web-green-front.apps.dev-env.bcc.kz/
+2023-11-22 20:08:58 Navigation [INFO] - Navigate to login page
+2023-11-22 20:08:59 TestListener [INFO] - Execute test: applyInstantCard
+2023-11-22 20:08:59 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:00 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:00 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:01 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:02 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:02 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:03 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:03 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:04 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:05 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:05 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:06 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:06 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:07 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:08 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:08 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:09 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:10 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:10 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:11 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:11 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:12 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:13 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:13 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:14 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:14 EventLog [INFO] - Should find element: By.cssSelector: input[name='v_login']
+2023-11-22 20:09:15 BaseTest [INFO] - Finishing suite: Default Suite
+2023-11-22 20:09:56 InitDriver [INFO] - Chrome browser instantiated
+2023-11-22 20:09:56 BaseTest [INFO] - Executing suite: Default Suite
+2023-11-22 20:09:56 BasePage [INFO] - pages.Navigation created
+2023-11-22 20:09:56 BaseTest [INFO] - Driver manager created
+2023-11-22 20:09:56 BasePage [INFO] - pages.LoginPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.LoginPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.MainPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.ClientPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.PremiumCardPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.CardsPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.CardDetailsPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.SocialCardPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.SalaryCardPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.StandardCardPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.TravelCardPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.BankAccountPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.InstantCardPage created
+2023-11-22 20:09:56 BasePage [INFO] - pages.DepositPage created
+2023-11-22 20:09:56 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-11-22 20:09:57 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-11-22 20:09:58 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-11-22 20:09:58 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-11-22 20:09:58 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-11-22 20:09:58 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-11-22 20:09:59 EventLog [INFO] - Should navigate to: https://test-web-green-front.apps.dev-env.bcc.kz/
+2023-11-22 20:10:30 EventLog [INFO] - Successful navigated to: https://test-web-green-front.apps.dev-env.bcc.kz/
+2023-11-22 20:10:30 Navigation [INFO] - Navigate to login page
+2023-11-22 20:10:32 TestListener [INFO] - Execute test: applyInstantCard
+2023-11-22 20:10:32 EventLog [INFO] - Should find element: By.cssSelector: input[name='username']
+2023-11-22 20:10:32 EventLog [INFO] - Successful found element: By.cssSelector: input[name='username']
+2023-11-22 20:10:32 EventLog [INFO] - Should find element: By.cssSelector: input[name='username']
+2023-11-22 20:10:32 EventLog [INFO] - Successful found element: By.cssSelector: input[name='username']
+2023-11-22 20:10:32 EventLog [INFO] - Value should be inputted: [a]
+2023-11-22 20:10:32 EventLog [INFO] - Value has been inputted: [a]
+2023-11-22 20:10:32 EventLog [INFO] - Should find element: By.cssSelector: input[name='username']
+2023-11-22 20:10:32 EventLog [INFO] - Successful found element: By.cssSelector: input[name='username']
+2023-11-22 20:10:32 EventLog [INFO] - Value should be inputted: [akylbeal]
+2023-11-22 20:10:32 EventLog [INFO] - Value has been inputted: [akylbeal]
+2023-11-22 20:10:32 EventLog [INFO] - Should find element: By.cssSelector: input[name='password']
+2023-11-22 20:10:32 EventLog [INFO] - Successful found element: By.cssSelector: input[name='password']
+2023-11-22 20:10:32 EventLog [INFO] - Should find element: By.cssSelector: input[name='password']
+2023-11-22 20:10:32 EventLog [INFO] - Successful found element: By.cssSelector: input[name='password']
+2023-11-22 20:10:32 EventLog [INFO] - Value should be inputted: [a]
+2023-11-22 20:10:32 EventLog [INFO] - Value has been inputted: [a]
+2023-11-22 20:10:32 EventLog [INFO] - Should find element: By.cssSelector: input[name='password']
+2023-11-22 20:10:32 EventLog [INFO] - Successful found element: By.cssSelector: input[name='password']
+2023-11-22 20:10:32 EventLog [INFO] - Value should be inputted: [************]
+2023-11-22 20:10:32 EventLog [INFO] - Value has been inputted: [************]
+2023-11-22 20:10:32 EventLog [INFO] - Should find element: By.cssSelector: button[type='submit']
+2023-11-22 20:10:32 EventLog [INFO] - Successful found element: By.cssSelector: button[type='submit']
+2023-11-22 20:10:32 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> css selector: button[type='submit']]
+2023-11-22 20:10:32 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> css selector: button[type='submit']]
+2023-11-22 20:10:34 EventLog [INFO] - Should find element: By.cssSelector: input.MuiInputBase-input.MuiFilledInput-input
+2023-11-22 20:10:34 EventLog [INFO] - Successful found element: By.cssSelector: input.MuiInputBase-input.MuiFilledInput-input
+2023-11-22 20:10:34 EventLog [INFO] - Should find element: By.cssSelector: input.MuiInputBase-input.MuiFilledInput-input
+2023-11-22 20:10:34 EventLog [INFO] - Successful found element: By.cssSelector: input.MuiInputBase-input.MuiFilledInput-input
+2023-11-22 20:10:34 EventLog [INFO] - Value should be inputted: [a]
+2023-11-22 20:10:34 EventLog [INFO] - Value has been inputted: [a]
+2023-11-22 20:10:34 EventLog [INFO] - Should find element: By.cssSelector: input.MuiInputBase-input.MuiFilledInput-input
+2023-11-22 20:10:34 EventLog [INFO] - Successful found element: By.cssSelector: input.MuiInputBase-input.MuiFilledInput-input
+2023-11-22 20:10:34 EventLog [INFO] - Value should be inputted: [810130350518]
+2023-11-22 20:10:34 EventLog [INFO] - Value has been inputted: [810130350518]
+2023-11-22 20:10:34 EventLog [INFO] - Should find element: By.cssSelector: button[type='submit']
+2023-11-22 20:10:34 EventLog [INFO] - Successful found element: By.cssSelector: button[type='submit']
+2023-11-22 20:10:34 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> css selector: button[type='submit']]
+2023-11-22 20:10:34 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> css selector: button[type='submit']]
+2023-11-22 20:10:34 EventLog [INFO] - Should find element: By.xpath: //div[.='08228097']
+2023-11-22 20:10:35 EventLog [INFO] - Should find element: By.xpath: //div[.='08228097']
+2023-11-22 20:10:35 EventLog [INFO] - Should find element: By.xpath: //div[.='08228097']
+2023-11-22 20:10:36 EventLog [INFO] - Should find element: By.xpath: //div[.='08228097']
+2023-11-22 20:10:36 EventLog [INFO] - Successful found element: By.xpath: //div[.='08228097']
+2023-11-22 20:10:36 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //div[.='08228097']]
+2023-11-22 20:10:36 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //div[.='08228097']]
+2023-11-22 20:10:38 EventLog [INFO] - Should find element: By.xpath: //span[.='Выбор продукта']
+2023-11-22 20:10:38 EventLog [INFO] - Successful found element: By.xpath: //span[.='Выбор продукта']
+2023-11-22 20:10:38 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //span[.='Выбор продукта']]
+2023-11-22 20:10:38 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //span[.='Выбор продукта']]
+2023-11-22 20:10:40 EventLog [INFO] - Should find element: By.xpath: //span[.='Оформить мгновенные карты']
+2023-11-22 20:10:40 EventLog [INFO] - Successful found element: By.xpath: //span[.='Оформить мгновенные карты']
+2023-11-22 20:10:40 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //span[.='Оформить мгновенные карты']]
+2023-11-22 20:10:40 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //span[.='Оформить мгновенные карты']]
+2023-11-22 20:10:43 EventLog [INFO] - Should find element: By.xpath: //form/div/div[1]/div
+2023-11-22 20:10:43 EventLog [INFO] - Successful found element: By.xpath: //form/div/div[1]/div
+2023-11-22 20:10:43 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //form/div/div[1]/div]
+2023-11-22 20:10:43 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //form/div/div[1]/div]
+2023-11-22 20:10:43 EventLog [INFO] - Should find element: By.xpath: //li[.='Перевыпуск мгновенных карт']
+2023-11-22 20:10:43 EventLog [INFO] - Successful found element: By.xpath: //li[.='Перевыпуск мгновенных карт']
+2023-11-22 20:10:43 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //li[.='Перевыпуск мгновенных карт']]
+2023-11-22 20:10:43 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //li[.='Перевыпуск мгновенных карт']]
+2023-11-22 20:10:43 EventLog [INFO] - Should find element: By.xpath: //form/div/div[2]/div
+2023-11-22 20:10:43 EventLog [INFO] - Successful found element: By.xpath: //form/div/div[2]/div
+2023-11-22 20:10:43 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //form/div/div[2]/div]
+2023-11-22 20:10:43 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //form/div/div[2]/div]
+2023-11-22 20:10:46 EventLog [INFO] - Should find element: By.xpath: //span[text() = 'Далее']
+2023-11-22 20:10:46 EventLog [INFO] - Successful found element: By.xpath: //span[text() = 'Далее']
+2023-11-22 20:10:46 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (36bef6fb7e94824f4565ab5927ab9612)] -> xpath: //span[text() = 'Далее']]
+2023-11-22 20:10:48 BaseTest [INFO] - Finishing suite: Default Suite
+2023-11-22 20:26:51 InitDriver [INFO] - Chrome browser instantiated
+2023-11-22 20:26:51 BaseTest [INFO] - Executing suite: Default Suite
+2023-11-22 20:26:51 BasePage [INFO] - pages.Navigation created
+2023-11-22 20:26:51 BaseTest [INFO] - Driver manager created
+2023-11-22 20:26:51 BasePage [INFO] - pages.LoginPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.LoginPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.MainPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.ClientPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.PremiumCardPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.CardsPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.CardDetailsPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.SocialCardPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.SalaryCardPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.StandardCardPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.TravelCardPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.BankAccountPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.InstantCardPage created
+2023-11-22 20:26:51 BasePage [INFO] - pages.DepositPage created
+2023-11-22 20:26:51 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-11-22 20:26:51 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-11-22 20:26:52 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-11-22 20:26:52 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-11-22 20:26:52 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-11-22 20:26:52 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-11-22 20:26:53 EventLog [INFO] - Should navigate to: https://test-web-green-front.apps.dev-env.bcc.kz/
+2023-11-22 20:27:25 EventLog [INFO] - Successful navigated to: https://test-web-green-front.apps.dev-env.bcc.kz/
+2023-11-22 20:27:25 Navigation [INFO] - Navigate to login page
+2023-11-22 20:27:26 TestListener [INFO] - Execute test: findUserByCode
+2023-11-22 20:27:26 EventLog [INFO] - Should find element: By.cssSelector: input[name='username']
+2023-11-22 20:27:26 EventLog [INFO] - Successful found element: By.cssSelector: input[name='username']
+2023-11-22 20:27:26 EventLog [INFO] - Should find element: By.cssSelector: input[name='username']
+2023-11-22 20:27:26 EventLog [INFO] - Successful found element: By.cssSelector: input[name='username']
+2023-11-22 20:27:26 EventLog [INFO] - Value should be inputted: [a]
+2023-11-22 20:27:26 EventLog [INFO] - Value has been inputted: [a]
+2023-11-22 20:27:26 EventLog [INFO] - Should find element: By.cssSelector: input[name='username']
+2023-11-22 20:27:26 EventLog [INFO] - Successful found element: By.cssSelector: input[name='username']
+2023-11-22 20:27:26 EventLog [INFO] - Value should be inputted: [akylbeal]
+2023-11-22 20:27:26 EventLog [INFO] - Value has been inputted: [akylbeal]
+2023-11-22 20:27:26 EventLog [INFO] - Should find element: By.cssSelector: input[name='password']
+2023-11-22 20:27:26 EventLog [INFO] - Successful found element: By.cssSelector: input[name='password']
+2023-11-22 20:27:27 EventLog [INFO] - Should find element: By.cssSelector: input[name='password']
+2023-11-22 20:27:27 EventLog [INFO] - Successful found element: By.cssSelector: input[name='password']
+2023-11-22 20:27:27 EventLog [INFO] - Value should be inputted: [a]
+2023-11-22 20:27:27 EventLog [INFO] - Value has been inputted: [a]
+2023-11-22 20:27:27 EventLog [INFO] - Should find element: By.cssSelector: input[name='password']
+2023-11-22 20:27:27 EventLog [INFO] - Successful found element: By.cssSelector: input[name='password']
+2023-11-22 20:27:27 EventLog [INFO] - Value should be inputted: [************]
+2023-11-22 20:27:27 EventLog [INFO] - Value has been inputted: [************]
+2023-11-22 20:27:27 EventLog [INFO] - Should find element: By.cssSelector: button[type='submit']
+2023-11-22 20:27:27 EventLog [INFO] - Successful found element: By.cssSelector: button[type='submit']
+2023-11-22 20:27:27 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (eb14f62bc0bf14e4696e23823b3f9123)] -> css selector: button[type='submit']]
+2023-11-22 20:27:27 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (eb14f62bc0bf14e4696e23823b3f9123)] -> css selector: button[type='submit']]

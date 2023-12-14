@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Комплект тестов для примера">
+    <test name="Ручной тест для примера">
+        <classes>
+            <class name="tests.ManualTests"/>
+            <class name="tests.KotlinManualTests"/>
+        </classes>
+    </test>
+</suite>
+

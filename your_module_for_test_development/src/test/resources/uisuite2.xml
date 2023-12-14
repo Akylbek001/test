@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="UI тесты с базовым классом на Kotlin">
+    <listeners>
+        <listener class-name="retry.RetryListener"/>
+    </listeners>
+
+    <test name="Тесты логина на основной странице">
+        <classes>
+            <class name="tests.KotlinLoginTest2"/>
+        </classes>
+    </test>
+</suite>
+

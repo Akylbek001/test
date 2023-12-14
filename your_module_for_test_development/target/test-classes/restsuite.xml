@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="REST тесты">
+    <listeners>
+        <listener class-name="retry.RetryListener"/>
+    </listeners>
+
+    <test name="Тесты REST API">
+        <classes>
+            <class name="tests.SimpleLoggingRestTest"/>
+            <class name="tests.IndividualLoggingRestTest"/>
+        </classes>
+    </test>
+</suite>
+

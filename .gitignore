@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/.idea/
+/target/
+.DS_Store
+apps/.DS_Store
+*.log
+*.iml
+
+ajcore.*
+notifications
+
+allure-results
+allure-report
+/allure-2.8.1/
+/.allure/

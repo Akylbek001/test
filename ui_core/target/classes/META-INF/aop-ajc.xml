@@ -1,0 +1,6 @@
+<aspectj>
+    <aspects>
+        <aspect name="common.aspects.AssertAspect"/>
+    </aspects>
+    <weaver options="-XnoInline -Xlint:ignore"/>
+</aspectj>

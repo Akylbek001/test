@@ -1,0 +1,1130 @@
+2023-12-14 22:52:57 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 22:52:57 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 22:52:57 BasePage [INFO] - pages.Navigation created
+2023-12-14 22:52:57 BaseTest [INFO] - Driver manager created
+2023-12-14 22:52:57 BasePage [INFO] - pages.ProductPage created
+2023-12-14 22:52:57 BasePage [INFO] - pages.ProductPage created
+2023-12-14 22:52:57 BasePage [INFO] - pages.MainPage created
+2023-12-14 22:52:57 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 22:52:57 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 22:52:58 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 22:52:58 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 22:52:58 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 22:52:58 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 22:53:00 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 22:53:00 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:01 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:02 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:02 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:03 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:03 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:04 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:05 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:05 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:06 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:06 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:07 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:08 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:08 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:09 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:10 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:10 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:11 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:11 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:12 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:13 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:13 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:14 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:14 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:15 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:16 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:53:16 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 22:54:22 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 22:54:22 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 22:54:22 BasePage [INFO] - pages.Navigation created
+2023-12-14 22:54:22 BaseTest [INFO] - Driver manager created
+2023-12-14 22:54:22 BasePage [INFO] - pages.ProductPage created
+2023-12-14 22:54:22 BasePage [INFO] - pages.ProductPage created
+2023-12-14 22:54:22 BasePage [INFO] - pages.MainPage created
+2023-12-14 22:54:22 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 22:54:22 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 22:54:23 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 22:54:23 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 22:54:23 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 22:54:23 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 22:54:24 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 22:54:25 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 22:54:25 Navigation [INFO] - Navigate to login page
+2023-12-14 22:54:26 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 22:54:26 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:54:26 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 22:54:26 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:54:26 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 22:54:26 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 22:54:26 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 22:54:26 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:54:26 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 22:54:26 EventLog [INFO] - Value should be inputted: [iphone 15 pro max 256GB]
+2023-12-14 22:54:26 EventLog [INFO] - Value has been inputted: [iphone 15 pro max 256GB]
+2023-12-14 22:54:26 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 22:54:26 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 22:54:26 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (325e25f06382d11ea78a32b550194a03)] -> id: applySearchBtn]
+2023-12-14 22:54:26 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (325e25f06382d11ea78a32b550194a03)] -> id: applySearchBtn]
+2023-12-14 22:54:26 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 22:54:27 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 22:54:27 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 22:54:27 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 22:54:27 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (325e25f06382d11ea78a32b550194a03)] -> id: c178630990]
+2023-12-14 22:54:27 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (325e25f06382d11ea78a32b550194a03)] -> id: c178630990]
+2023-12-14 22:54:29 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:29 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:30 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:30 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:31 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:31 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:31 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:31 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:32 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:32 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:32 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:33 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:33 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:33 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:34 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:34 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:34 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:34 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:35 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:35 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:36 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:36 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:36 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:36 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:37 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:37 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:37 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:37 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:38 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:38 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:39 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:39 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:39 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:39 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:40 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:40 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:41 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:41 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:41 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:41 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:42 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:42 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:42 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:42 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:43 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:43 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:44 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:44 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:44 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:44 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:45 EventLog [INFO] - Should find element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:45 EventLog [INFO] - Successful found element: By.xpath: //span[.='Добавить в корзину']
+2023-12-14 22:54:45 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 22:58:25 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 22:58:25 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 22:58:25 BasePage [INFO] - pages.Navigation created
+2023-12-14 22:58:25 BaseTest [INFO] - Driver manager created
+2023-12-14 22:58:25 BasePage [INFO] - pages.ProductPage created
+2023-12-14 22:58:25 BasePage [INFO] - pages.ProductPage created
+2023-12-14 22:58:25 BasePage [INFO] - pages.MainPage created
+2023-12-14 22:58:25 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 22:58:25 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 22:58:26 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 22:58:26 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 22:58:26 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 22:58:26 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 22:58:27 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 22:58:28 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 22:58:28 Navigation [INFO] - Navigate to login page
+2023-12-14 22:58:29 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 22:58:29 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:58:29 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 22:58:29 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:58:29 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 22:58:29 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 22:58:29 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 22:58:29 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 22:58:29 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 22:58:29 EventLog [INFO] - Value should be inputted: [iphone 15 pro max 256GB]
+2023-12-14 22:58:29 EventLog [INFO] - Value has been inputted: [iphone 15 pro max 256GB]
+2023-12-14 22:58:29 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 22:58:29 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 22:58:29 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (6ba5e1650a65b7d9fe88d91beff94a51)] -> id: applySearchBtn]
+2023-12-14 22:58:29 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (6ba5e1650a65b7d9fe88d91beff94a51)] -> id: applySearchBtn]
+2023-12-14 22:58:29 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 22:58:30 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 22:58:30 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 22:58:30 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (6ba5e1650a65b7d9fe88d91beff94a51)] -> id: c178630990]
+2023-12-14 22:58:30 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (6ba5e1650a65b7d9fe88d91beff94a51)] -> id: c178630990]
+2023-12-14 22:58:32 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:32 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:33 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:34 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:34 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:35 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:36 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:36 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:37 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:37 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:38 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:39 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:39 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:40 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:40 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:41 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:42 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:42 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:43 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:44 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:44 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:45 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:45 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:46 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:47 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:47 EventLog [INFO] - Should find element: By.xpath: button[class='btn-main']
+2023-12-14 22:58:47 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:02:19 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:02:19 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:02:19 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:02:19 BaseTest [INFO] - Driver manager created
+2023-12-14 23:02:19 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:02:19 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:02:19 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:02:19 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:02:20 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:02:21 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:02:21 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:02:21 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:02:21 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:02:22 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:02:22 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:02:22 Navigation [INFO] - Navigate to login page
+2023-12-14 23:02:23 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:02:23 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:02:23 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:02:23 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:02:23 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:02:23 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:02:24 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:02:24 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:02:24 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:02:24 EventLog [INFO] - Value should be inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:02:24 EventLog [INFO] - Value has been inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:02:24 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:02:24 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:02:24 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (efc62de07a55ec29e431154a6ae6a290)] -> id: applySearchBtn]
+2023-12-14 23:02:24 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (efc62de07a55ec29e431154a6ae6a290)] -> id: applySearchBtn]
+2023-12-14 23:02:24 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:02:24 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:02:24 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:02:24 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (efc62de07a55ec29e431154a6ae6a290)] -> id: c178630990]
+2023-12-14 23:02:24 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (efc62de07a55ec29e431154a6ae6a290)] -> id: c178630990]
+2023-12-14 23:02:26 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:02:26 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:02:26 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (efc62de07a55ec29e431154a6ae6a290)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:02:26 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (efc62de07a55ec29e431154a6ae6a290)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:02:28 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:29 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:30 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:30 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:31 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:31 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:32 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:33 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:33 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:34 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:35 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:35 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:36 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:36 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:37 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:38 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:39 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:39 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:40 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:41 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:41 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:42 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:42 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:43 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:44 EventLog [INFO] - Should find element: By.xpath: //span[.='Перейти в корзину']
+2023-12-14 23:02:44 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:03:50 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:03:50 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:03:50 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:03:50 BaseTest [INFO] - Driver manager created
+2023-12-14 23:03:50 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:03:50 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:03:50 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:03:50 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:03:50 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:03:51 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:03:51 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:03:51 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:03:51 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:03:52 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:03:53 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:03:53 Navigation [INFO] - Navigate to login page
+2023-12-14 23:03:54 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:03:54 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:03:54 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:03:54 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:03:54 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:03:54 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:03:54 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:03:54 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:03:54 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:03:54 EventLog [INFO] - Value should be inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:03:54 EventLog [INFO] - Value has been inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:03:54 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:03:54 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:03:54 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> id: applySearchBtn]
+2023-12-14 23:03:54 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> id: applySearchBtn]
+2023-12-14 23:03:54 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:03:55 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:03:56 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:03:56 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:03:56 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> id: c178630990]
+2023-12-14 23:03:56 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> id: c178630990]
+2023-12-14 23:03:58 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:03:58 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:03:58 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:03:58 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:04:01 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:04:01 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:04:01 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:04:01 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (7db5bb8d3c7e7d8553e8f72c4ffab47a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:04:01 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:05:35 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:05:35 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:05:35 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:05:35 BaseTest [INFO] - Driver manager created
+2023-12-14 23:05:35 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:05:35 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:05:35 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:05:35 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:05:35 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:05:36 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:05:36 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:05:36 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:05:36 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:05:37 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:05:38 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:05:38 Navigation [INFO] - Navigate to login page
+2023-12-14 23:05:39 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:05:39 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:05:39 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:05:39 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:05:39 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:05:39 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:05:39 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:05:39 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:05:39 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:05:39 EventLog [INFO] - Value should be inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:05:39 EventLog [INFO] - Value has been inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:05:39 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:05:39 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:05:39 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> id: applySearchBtn]
+2023-12-14 23:05:39 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> id: applySearchBtn]
+2023-12-14 23:05:39 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:05:40 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:05:40 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:05:40 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> id: c178630990]
+2023-12-14 23:05:40 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> id: c178630990]
+2023-12-14 23:05:42 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:05:42 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:05:42 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:05:42 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:05:45 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:05:45 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:05:45 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:05:45 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ebd88cbf25065e9b08605682bd3f4a8a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:05:45 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:15:22 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:15:22 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:15:22 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:15:22 BaseTest [INFO] - Driver manager created
+2023-12-14 23:15:22 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:15:22 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:15:22 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:15:22 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:15:22 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:15:22 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:15:23 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:15:23 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:15:23 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:15:23 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:15:25 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:15:25 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:15:25 Navigation [INFO] - Navigate to login page
+2023-12-14 23:15:26 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:15:26 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:15:26 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:15:26 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:15:26 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:15:26 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:15:26 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:15:26 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:15:26 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:15:27 EventLog [INFO] - Value should be inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:15:27 EventLog [INFO] - Value has been inputted: [iphone 15 pro max 256GB]
+2023-12-14 23:15:27 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:15:27 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:15:27 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> id: applySearchBtn]
+2023-12-14 23:15:27 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> id: applySearchBtn]
+2023-12-14 23:15:27 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:15:27 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:15:27 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:15:27 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> id: c178630990]
+2023-12-14 23:15:27 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> id: c178630990]
+2023-12-14 23:15:29 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:15:29 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:15:29 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:15:29 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:15:32 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:15:32 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:15:32 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:15:32 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (45ecc5ba043fb66e03ec101dc4fb9a55)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:15:32 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:15:33 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:15:33 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:15:33 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:16:19 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:16:19 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:16:19 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:16:19 BaseTest [INFO] - Driver manager created
+2023-12-14 23:16:19 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:16:19 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:16:19 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:16:19 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:16:19 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:16:19 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:16:20 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:16:20 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:16:20 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:16:20 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:16:21 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:16:22 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:16:22 Navigation [INFO] - Navigate to login page
+2023-12-14 23:16:23 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:16:23 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:16:23 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:16:23 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:16:23 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:16:23 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:16:23 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:16:23 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:16:23 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:16:23 EventLog [INFO] - Value should be inputted: [???????? iPhone 15 Pro Max 256 ?? Black]
+2023-12-14 23:16:23 EventLog [INFO] - Value has been inputted: [???????? iPhone 15 Pro Max 256 ?? Black]
+2023-12-14 23:16:23 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:16:23 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:16:23 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> id: applySearchBtn]
+2023-12-14 23:16:23 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> id: applySearchBtn]
+2023-12-14 23:16:23 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:16:24 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:16:24 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:16:24 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> id: c178630990]
+2023-12-14 23:16:24 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> id: c178630990]
+2023-12-14 23:16:26 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:16:26 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:16:26 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:16:26 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:16:29 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:16:29 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:16:29 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:16:29 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (a4b014102baf8379c2b7cb053078a768)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:16:29 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:16:30 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:16:30 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:16:30 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:18:43 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:18:43 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:18:43 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:18:43 BaseTest [INFO] - Driver manager created
+2023-12-14 23:18:43 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:18:43 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:18:43 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:18:43 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:18:43 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:18:43 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:18:44 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:18:44 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:18:44 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:18:44 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:18:45 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:18:46 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:18:46 Navigation [INFO] - Navigate to login page
+2023-12-14 23:18:47 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:18:47 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:18:47 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:18:47 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:18:47 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:18:47 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:18:47 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:18:47 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:18:47 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:18:47 EventLog [INFO] - Value should be inputted: [???????? iPhone 15 Pro Max 256 ?? Black]
+2023-12-14 23:18:48 EventLog [INFO] - Value has been inputted: [???????? iPhone 15 Pro Max 256 ?? Black]
+2023-12-14 23:18:48 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:18:48 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:18:48 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> id: applySearchBtn]
+2023-12-14 23:18:48 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> id: applySearchBtn]
+2023-12-14 23:18:48 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:18:48 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:18:49 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:18:49 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:18:49 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> id: c178630990]
+2023-12-14 23:18:49 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> id: c178630990]
+2023-12-14 23:18:51 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:18:51 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:18:51 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:18:51 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:18:54 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:18:54 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:18:54 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:18:54 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (40407fca078105cac7cad9e5ec80ebea)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:18:54 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:18:55 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:18:55 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:18:55 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:18:55 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:19:29 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:19:29 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:19:29 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:19:29 BaseTest [INFO] - Driver manager created
+2023-12-14 23:19:29 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:19:29 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:19:29 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:19:29 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:19:29 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:19:29 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:19:30 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:19:30 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:19:30 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:19:30 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:19:31 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:19:32 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:19:32 Navigation [INFO] - Navigate to login page
+2023-12-14 23:19:33 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:19:33 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:19:33 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:19:33 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:19:33 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:19:33 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:19:33 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:19:33 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:19:33 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:19:33 EventLog [INFO] - Value should be inputted: [iPhone 15 Pro Max 256]
+2023-12-14 23:19:33 EventLog [INFO] - Value has been inputted: [iPhone 15 Pro Max 256]
+2023-12-14 23:19:33 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:19:33 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:19:33 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> id: applySearchBtn]
+2023-12-14 23:19:33 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> id: applySearchBtn]
+2023-12-14 23:19:33 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:19:34 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:19:34 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:19:34 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> id: c178630990]
+2023-12-14 23:19:34 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> id: c178630990]
+2023-12-14 23:19:36 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:19:36 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:19:36 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:19:36 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:19:39 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:19:39 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:19:39 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:19:39 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (1a2b24d739e5af689efe6148ed72cf13)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:19:39 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:19:40 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:19:40 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:19:40 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:19:40 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:20:07 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:20:07 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:20:07 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:20:07 BaseTest [INFO] - Driver manager created
+2023-12-14 23:20:07 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:20:07 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:20:07 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:20:07 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:20:07 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:20:07 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:20:08 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:20:08 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:20:08 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:20:08 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:20:09 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:20:10 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:20:10 Navigation [INFO] - Navigate to login page
+2023-12-14 23:20:11 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:20:11 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:20:11 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:20:11 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:20:11 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:20:11 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:20:11 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:20:11 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:20:11 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:20:11 EventLog [INFO] - Value should be inputted: [iPhone 15 Pro Max 256]
+2023-12-14 23:20:11 EventLog [INFO] - Value has been inputted: [iPhone 15 Pro Max 256]
+2023-12-14 23:20:11 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:20:11 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:20:11 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> id: applySearchBtn]
+2023-12-14 23:20:12 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> id: applySearchBtn]
+2023-12-14 23:20:12 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:20:12 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:20:12 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:20:12 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> id: c178630990]
+2023-12-14 23:20:12 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> id: c178630990]
+2023-12-14 23:20:14 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:20:14 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:20:14 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:20:14 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:20:17 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:20:17 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:20:17 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:20:17 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (37d3d3ebc6b833cedeabb19a748520f5)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:20:17 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:20:18 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:20:18 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:20:18 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:20:18 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:20:58 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:20:58 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:20:58 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:20:58 BaseTest [INFO] - Driver manager created
+2023-12-14 23:20:58 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:20:58 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:20:58 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:20:58 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:20:58 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:20:58 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:20:59 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:20:59 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:20:59 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:20:59 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:21:00 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:21:01 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:21:01 Navigation [INFO] - Navigate to login page
+2023-12-14 23:21:02 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:21:02 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:21:02 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:21:02 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:21:02 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:21:02 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:21:02 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:21:02 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:21:02 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:21:02 EventLog [INFO] - Value should be inputted: [???????? iPhone 15 Pro Max 256 ?? Black]
+2023-12-14 23:21:02 EventLog [INFO] - Value has been inputted: [???????? iPhone 15 Pro Max 256 ?? Black]
+2023-12-14 23:21:02 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:21:02 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:21:02 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> id: applySearchBtn]
+2023-12-14 23:21:02 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> id: applySearchBtn]
+2023-12-14 23:21:02 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:21:03 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:21:03 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:21:03 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> id: c178630990]
+2023-12-14 23:21:03 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> id: c178630990]
+2023-12-14 23:21:05 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:05 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:05 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:05 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:08 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:08 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:08 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:08 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (d2b10998baf47b5badc1ec33bf4dd375)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:08 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:21:09 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:21:09 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:21:09 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:21:09 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:21:31 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:21:31 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:21:31 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:21:31 BaseTest [INFO] - Driver manager created
+2023-12-14 23:21:31 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:21:31 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:21:31 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:21:31 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:21:31 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:21:31 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:21:32 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:21:32 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:21:32 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:21:32 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:21:33 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:21:34 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:21:34 Navigation [INFO] - Navigate to login page
+2023-12-14 23:21:35 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:21:35 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:21:35 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:21:35 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:21:35 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:21:35 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:21:35 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:21:35 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:21:35 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:21:35 EventLog [INFO] - Value should be inputted: ["???????? iPhone 15 Pro Max 256 ?? Black"]
+2023-12-14 23:21:35 EventLog [INFO] - Value has been inputted: ["???????? iPhone 15 Pro Max 256 ?? Black"]
+2023-12-14 23:21:35 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:21:35 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:21:35 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> id: applySearchBtn]
+2023-12-14 23:21:35 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> id: applySearchBtn]
+2023-12-14 23:21:35 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:21:36 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:21:36 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:21:36 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> id: c178630990]
+2023-12-14 23:21:36 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> id: c178630990]
+2023-12-14 23:21:38 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:38 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:38 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:38 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:41 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:41 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:21:41 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:41 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (dcd3e5b62e881cd3ac8e02118fb59e5a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:21:41 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:21:42 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:21:42 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:21:42 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:21:42 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:23:41 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:23:41 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:23:41 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:23:41 BaseTest [INFO] - Driver manager created
+2023-12-14 23:23:41 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:23:41 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:23:41 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:23:41 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:23:41 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:23:41 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:23:42 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:23:42 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:23:42 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:23:42 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:23:43 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:23:44 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:23:44 Navigation [INFO] - Navigate to login page
+2023-12-14 23:23:45 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:23:45 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:23:45 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:23:45 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:23:45 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:23:45 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:23:45 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:23:45 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:23:45 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:23:45 EventLog [INFO] - Value should be inputted: ["???????? iPhone 15 Pro Max 256 ?? Black"]
+2023-12-14 23:23:45 EventLog [INFO] - Value has been inputted: ["???????? iPhone 15 Pro Max 256 ?? Black"]
+2023-12-14 23:23:45 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:23:45 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:23:45 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> id: applySearchBtn]
+2023-12-14 23:23:45 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> id: applySearchBtn]
+2023-12-14 23:23:45 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:23:46 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:23:46 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:23:46 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> id: c178630990]
+2023-12-14 23:23:46 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> id: c178630990]
+2023-12-14 23:23:48 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:23:48 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:23:48 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:23:48 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:23:51 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:23:51 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:23:51 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:23:51 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (42056de342e2b59e755e945817116a75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:23:51 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:23:52 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:23:52 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:23:52 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:23:52 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:24:31 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:24:32 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:24:32 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:24:32 BaseTest [INFO] - Driver manager created
+2023-12-14 23:24:32 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:24:32 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:24:32 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:24:32 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:24:32 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:24:32 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:24:33 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:24:33 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:24:33 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:24:33 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:24:34 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:24:35 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:24:35 Navigation [INFO] - Navigate to login page
+2023-12-14 23:24:36 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:24:36 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:24:36 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:24:36 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:24:36 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:24:36 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:24:36 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:24:36 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:24:36 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:24:36 EventLog [INFO] - Value should be inputted: ["iPhone 15 Pro Max 256 GB"]
+2023-12-14 23:24:36 EventLog [INFO] - Value has been inputted: ["iPhone 15 Pro Max 256 GB"]
+2023-12-14 23:24:36 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:24:36 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:24:36 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> id: applySearchBtn]
+2023-12-14 23:24:36 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> id: applySearchBtn]
+2023-12-14 23:24:36 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:24:37 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:24:37 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:24:37 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> id: c178630990]
+2023-12-14 23:24:37 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> id: c178630990]
+2023-12-14 23:24:39 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:24:39 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:24:39 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:24:39 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:24:42 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:24:42 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:24:42 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:24:42 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (0c2cbeabf825008eb60cf52076de3b75)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:24:42 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:24:42 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:24:42 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:24:42 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:24:42 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:25:49 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:25:49 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:25:49 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:25:49 BaseTest [INFO] - Driver manager created
+2023-12-14 23:25:49 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:25:49 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:25:49 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:25:49 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:25:49 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:25:49 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:25:50 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:25:50 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:25:50 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:25:50 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:25:51 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:25:52 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:25:52 Navigation [INFO] - Navigate to login page
+2023-12-14 23:25:53 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:25:53 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:25:53 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:25:53 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:25:53 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:25:53 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:25:53 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:25:53 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:25:53 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:25:53 EventLog [INFO] - Value should be inputted: ["iPhone 15 Pro Max 256 GB"]
+2023-12-14 23:25:53 EventLog [INFO] - Value has been inputted: ["iPhone 15 Pro Max 256 GB"]
+2023-12-14 23:25:53 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:25:53 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:25:53 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> id: applySearchBtn]
+2023-12-14 23:25:53 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> id: applySearchBtn]
+2023-12-14 23:25:55 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:25:55 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:25:55 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> id: c178630990]
+2023-12-14 23:25:55 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> id: c178630990]
+2023-12-14 23:25:57 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:25:57 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:25:57 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:25:57 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:26:00 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:26:00 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:26:00 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:26:00 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (98c62be14edeb9f1e4625cdffc12e2ad)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:26:00 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:26:01 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:26:01 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:26:01 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:26:01 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:26:01 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:26:01 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:26:01 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:37:12 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:37:12 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:37:12 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:37:12 BaseTest [INFO] - Driver manager created
+2023-12-14 23:37:12 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:37:12 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:37:12 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:37:12 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:37:12 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:37:13 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:37:14 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:37:14 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:37:14 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:37:14 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:37:15 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:37:15 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:37:15 Navigation [INFO] - Navigate to login page
+2023-12-14 23:37:17 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:37:17 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:37:17 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:37:17 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:37:17 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:37:17 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:37:17 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:37:17 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:37:17 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:37:17 EventLog [INFO] - Value should be inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:37:17 EventLog [INFO] - Value has been inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:37:17 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:37:17 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:37:17 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> id: applySearchBtn]
+2023-12-14 23:37:17 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> id: applySearchBtn]
+2023-12-14 23:37:19 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:37:19 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:37:19 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> id: c178630990]
+2023-12-14 23:37:19 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> id: c178630990]
+2023-12-14 23:37:21 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:21 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:21 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:21 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:24 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:24 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:24 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:24 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (739de0d8af7d1234354751d5dfc95c7a)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:24 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:25 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:25 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:25 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:37:25 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:25 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:25 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:37:25 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:37:43 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:37:43 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:37:43 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:37:43 BaseTest [INFO] - Driver manager created
+2023-12-14 23:37:43 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:37:43 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:37:43 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:37:43 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:37:43 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:37:43 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:37:44 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:37:44 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:37:44 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:37:44 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:37:45 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:37:46 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:37:46 Navigation [INFO] - Navigate to login page
+2023-12-14 23:37:47 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:37:47 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:37:47 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:37:47 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:37:47 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:37:47 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:37:47 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:37:47 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:37:47 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:37:47 EventLog [INFO] - Value should be inputted: [Смартфон iPhone 15 Pro Max 256 ГБ ]
+2023-12-14 23:37:47 EventLog [INFO] - Value has been inputted: [Смартфон iPhone 15 Pro Max 256 ГБ ]
+2023-12-14 23:37:47 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:37:47 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:37:47 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> id: applySearchBtn]
+2023-12-14 23:37:47 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> id: applySearchBtn]
+2023-12-14 23:37:49 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:37:49 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:37:49 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> id: c178630990]
+2023-12-14 23:37:49 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> id: c178630990]
+2023-12-14 23:37:51 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:51 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:51 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:51 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:54 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:54 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:37:54 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:54 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (ca5015c576fac0e142489c4f07999129)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:37:54 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:55 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:55 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:55 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:37:55 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:55 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:37:55 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:37:55 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:41:12 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:41:12 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:41:12 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:41:12 BaseTest [INFO] - Driver manager created
+2023-12-14 23:41:12 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:41:12 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:41:12 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:41:12 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:41:12 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:41:12 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:41:13 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:41:13 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:41:13 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:41:13 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:41:14 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:41:15 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:41:15 Navigation [INFO] - Navigate to login page
+2023-12-14 23:41:16 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:41:16 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:41:16 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:41:16 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:41:16 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:41:16 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:41:16 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:41:16 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:41:16 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:41:16 EventLog [INFO] - Value should be inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:41:16 EventLog [INFO] - Value has been inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:41:16 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:41:16 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:41:17 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (fae41e9416de2e8f5aab08e3d4b54ee7)] -> id: applySearchBtn]
+2023-12-14 23:41:17 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (fae41e9416de2e8f5aab08e3d4b54ee7)] -> id: applySearchBtn]
+2023-12-14 23:41:19 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:41:19 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:41:19 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (fae41e9416de2e8f5aab08e3d4b54ee7)] -> id: c178630990]
+2023-12-14 23:41:19 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (fae41e9416de2e8f5aab08e3d4b54ee7)] -> id: c178630990]
+2023-12-14 23:41:21 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:41:21 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:41:21 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (fae41e9416de2e8f5aab08e3d4b54ee7)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:41:21 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (fae41e9416de2e8f5aab08e3d4b54ee7)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:41:24 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:24 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:25 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:25 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:26 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:27 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:27 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:28 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:28 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:29 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:30 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:30 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:31 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:32 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:32 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:33 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:33 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:34 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:35 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:35 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:36 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:36 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:37 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:38 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:38 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:39 EventLog [INFO] - Should find element: By.className: navbar-pc__icon navbar-pc__icon--basket
+2023-12-14 23:41:39 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:42:39 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:42:39 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:42:39 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:42:39 BaseTest [INFO] - Driver manager created
+2023-12-14 23:42:39 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:42:39 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:42:39 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:42:39 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:42:39 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:42:40 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:42:41 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:42:41 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:42:41 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:42:41 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:42:42 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:42:42 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:42:42 Navigation [INFO] - Navigate to login page
+2023-12-14 23:42:43 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:42:43 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:42:43 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:42:44 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:42:44 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:42:44 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:42:44 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:42:44 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:42:44 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:42:44 EventLog [INFO] - Value should be inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:42:44 EventLog [INFO] - Value has been inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:42:44 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:42:44 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:42:44 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> id: applySearchBtn]
+2023-12-14 23:42:44 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> id: applySearchBtn]
+2023-12-14 23:42:46 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:42:46 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:42:46 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> id: c178630990]
+2023-12-14 23:42:46 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> id: c178630990]
+2023-12-14 23:42:48 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:42:48 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:42:48 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:42:48 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:42:51 EventLog [INFO] - Should find element: By.className: navbar-pc__notify
+2023-12-14 23:42:51 EventLog [INFO] - Successful found element: By.className: navbar-pc__notify
+2023-12-14 23:42:51 EventLog [INFO] - Text in element: 1
+2023-12-14 23:42:51 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:42:51 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:42:51 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:42:51 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (acbe13bf991bf835cc5fbd58f4536c0d)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:42:51 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:42:51 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:42:51 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:42:51 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:42:52 BaseTest [INFO] - Finishing suite: Default Suite
+2023-12-14 23:43:18 InitDriver [INFO] - Chrome browser instantiated
+2023-12-14 23:43:18 BaseTest [INFO] - Executing suite: Default Suite
+2023-12-14 23:43:18 BasePage [INFO] - pages.Navigation created
+2023-12-14 23:43:18 BaseTest [INFO] - Driver manager created
+2023-12-14 23:43:18 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:43:18 BasePage [INFO] - pages.ProductPage created
+2023-12-14 23:43:18 BasePage [INFO] - pages.MainPage created
+2023-12-14 23:43:18 BasePage [INFO] - pages.BasketPage created
+2023-12-14 23:43:18 EventLog [INFO] - Should navigate to: chrome://settings/clearBrowserData
+2023-12-14 23:43:18 EventLog [INFO] - Successful navigated to: chrome://settings/clearBrowserData
+2023-12-14 23:43:19 EventLog [INFO] - Script should be executed: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:43:19 EventLog [INFO] - Script fulfilled: return document.querySelector("body > settings-ui").shadowRoot.querySelector("#main").shadowRoot.querySelector("settings-basic-page").shadowRoot.querySelector("#basicPage > settings-section[section='privacy'] > settings-privacy-page").shadowRoot.querySelector("settings-clear-browsing-data-dialog").shadowRoot.querySelector("#clearBrowsingDataConfirm")
+2023-12-14 23:43:19 EventLog [INFO] - Script should be executed: arguments[0].click();
+2023-12-14 23:43:19 EventLog [INFO] - Script fulfilled: arguments[0].click();
+2023-12-14 23:43:20 EventLog [INFO] - Should navigate to: https://www.wildberries.ru/
+2023-12-14 23:43:21 EventLog [INFO] - Successful navigated to: https://www.wildberries.ru/
+2023-12-14 23:43:21 Navigation [INFO] - Navigate to login page
+2023-12-14 23:43:22 TestListener [INFO] - Execute test: searchIphone
+2023-12-14 23:43:22 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:43:22 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:43:22 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:43:22 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:43:22 EventLog [INFO] - Value should be inputted: [a]
+2023-12-14 23:43:22 EventLog [INFO] - Value has been inputted: [a]
+2023-12-14 23:43:22 EventLog [INFO] - Should find element: By.id: searchInput
+2023-12-14 23:43:22 EventLog [INFO] - Successful found element: By.id: searchInput
+2023-12-14 23:43:22 EventLog [INFO] - Value should be inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:43:22 EventLog [INFO] - Value has been inputted: [Смартфон iPhone 15 Pro Max 256 ГБ Black]
+2023-12-14 23:43:22 EventLog [INFO] - Should find element: By.id: applySearchBtn
+2023-12-14 23:43:22 EventLog [INFO] - Successful found element: By.id: applySearchBtn
+2023-12-14 23:43:22 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> id: applySearchBtn]
+2023-12-14 23:43:22 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> id: applySearchBtn]
+2023-12-14 23:43:24 EventLog [INFO] - Should find element: By.id: c178630990
+2023-12-14 23:43:24 EventLog [INFO] - Successful found element: By.id: c178630990
+2023-12-14 23:43:25 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> id: c178630990]
+2023-12-14 23:43:25 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> id: c178630990]
+2023-12-14 23:43:27 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:43:27 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:43:27 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:43:27 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:43:30 EventLog [INFO] - Should find element: By.className: navbar-pc__notify
+2023-12-14 23:43:30 EventLog [INFO] - Successful found element: By.className: navbar-pc__notify
+2023-12-14 23:43:30 EventLog [INFO] - Text in element: 1
+2023-12-14 23:43:30 EventLog [INFO] - Should find element: By.className: navbar-pc__notify
+2023-12-14 23:43:30 EventLog [INFO] - Successful found element: By.className: navbar-pc__notify
+2023-12-14 23:43:30 EventLog [INFO] - Text in element: 1
+2023-12-14 23:43:30 EventLog [INFO] - Should find element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:43:30 EventLog [INFO] - Successful found element: By.cssSelector: div.product-page__aside div.order
+2023-12-14 23:43:30 EventLog [INFO] - Should click on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:43:30 EventLog [INFO] - Successful clicked on element: [[ChromeDriver: chrome on WINDOWS (689cce3e38ecea3907f12ebd0dd671ac)] -> css selector: div.product-page__aside div.order]
+2023-12-14 23:43:30 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:43:30 EventLog [INFO] - Should find element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:43:30 EventLog [INFO] - Successful found element: By.cssSelector: span.good-info__good-name
+2023-12-14 23:43:30 EventLog [INFO] - Text in element: Смартфон iPhone 15 Pro Max 256 ГБ Black
+2023-12-14 23:43:30 BaseTest [INFO] - Finishing suite: Default Suite
